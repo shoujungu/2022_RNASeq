@@ -1,1 +1,1 @@
-# 2022_RNASeq
+# RNASeq Data Analysis

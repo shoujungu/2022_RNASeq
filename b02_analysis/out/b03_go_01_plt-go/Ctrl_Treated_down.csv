@@ -1,0 +1,11 @@
+,Term,Combined Score,Adjusted P-value
+62,(GO: 0045003) double-strand break repair via synthesis-dependent strand annealing,1801.3461658076187,0.00010875351190123048
+63,(GO: 0060700) regulation of ribonuclease activity,1801.3461658076187,0.00010875351190123048
+2,(GO: 0071357) cellular response to type I interferon,879.1196209520633,4.6435949340597904e-17
+3,(GO: 0060337) type I interferon signaling pathway,879.1196209520633,4.6435949340597904e-17
+71,(GO: 0032069) regulation of nuclease activity,824.6647073041484,0.00028362549143489606
+1,(GO: 0140546) defense response to symbiont,770.2211286742206,1.7752526533091293e-21
+0,(GO: 0051607) defense response to virus,729.9759086750375,1.7752526533091293e-21
+7,(GO: 0045071) negative regulation of viral genome replication,605.6883803731197,8.434277667492627e-13
+15,(GO: 0071173) spindle assembly checkpoint signaling,534.713831519714,2.691899763506609e-07
+16,(GO: 0007094) mitotic spindle assembly checkpoint signaling,534.713831519714,2.691899763506609e-07

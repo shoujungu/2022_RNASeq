@@ -19,7 +19,7 @@ l_fname=list(Path(fd_in).glob('*.csv'))
 #-----------------------------------------------
 def make_df(df):
     df=df.loc[df['p']>0, :].copy()
-    x=-np.log10(p)
+    #x=-np.log10(p)
     #convert p
     df['logp']=df['p'].apply(np.log10)
     df['logp']=-df['logp']

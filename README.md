@@ -22,7 +22,7 @@
 ---
 ## 3. **Folder Structure**  
 ### \- a00_raw
-Original files downloaded from SRA database.  
+Original run information files downloaded from SRA database.  
 ### \- a01_tool
 Softwares and reference genome data.  
 ### \- b00_fastq
